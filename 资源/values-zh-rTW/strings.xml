@@ -21,7 +21,7 @@
     <string name="srceng_launcher_volume_buttons">使用音量鍵射擊</string>
     <string name="srceng_launcher_volume_buttons_desc">音量 + 鍵現已繫結至 L_TRIGGER（主射擊鍵），音量 - 鍵現已繫結至 R_TRIGGER（副射擊鍵）！！！</string>
     <string name="srceng_launcher_immersive_mode">沉浸模式</string>
-    <string name="srceng_launcher_screen_resolution">固定螢幕解析度</string>
+    <string name="srceng_launcher_screen_resolution">修改螢幕解析度</string>
 
     <string name="srceng_game_hl2">戰慄時空 2</string>
     <string name="srceng_game_hl2ep1">戰慄時空 2 第一章</string>
